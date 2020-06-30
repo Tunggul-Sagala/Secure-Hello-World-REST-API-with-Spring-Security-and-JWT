@@ -9,3 +9,6 @@ Endpoint
 Signup      = http://localhost:8585/api/signup
 Login       = http://localhost:8585/api/login
 Hello Wordl = http://localhost:8585/api/hello
+
+
+MySQL script file name spring-jwt.sql
