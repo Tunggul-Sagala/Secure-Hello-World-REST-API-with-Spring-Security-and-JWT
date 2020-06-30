@@ -1,0 +1,1 @@
+This is a simple Hello world REST API secured by Spring security and JWT Token.
